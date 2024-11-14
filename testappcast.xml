@@ -1,12 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Clusterix Email</title>
+        <title>Clusterix Email Updates</title>
+        <link>https://play.google.com/store/apps/details?id=com.innoscripta.emailapp</link>
+        <description>Latest updates for Clusterix Email app</description>
+        <language>en</language>
         <item>
             <title>Version 3.1.9</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.innoscripta.emailapp" sparkle:version="3.1.9" sparkle:os="android" />
+            <pubDate>Wed, 13 Nov 2024 09:00:00 +0000</pubDate>
+            <enclosure 
+                url="https://play.google.com/store/apps/details?id=com.innoscripta.emailapp"
+                sparkle:version="3.1.9"
+                sparkle:shortVersionString="3.1.9"
+                sparkle:os="android"
+                length="0"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>3.1.8</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
